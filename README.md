@@ -87,6 +87,6 @@ I specialize in **data analysis**, **SQL**, and **data visualization**, while co
 - **Python** – Data analysis with Pandas, NumPy, and data visualization libraries  
 
 ### 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-abdulroqeeb-opeyemi-45b93033)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abdulroqeeb-opeyemi-45b930332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/realAbdulroqeeb))
 
