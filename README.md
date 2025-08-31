@@ -72,5 +72,21 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview and instructions
 └── LICENSE                             # License information for the repository
-
+```
 ---
+
+## 🌟 About Me
+
+Hi there! I'm **Muhammad Abdulroqeeb**, a passionate **Data Analyst** who loves transforming raw data into meaningful insights that drive business decisions.  
+I specialize in **data analysis**, **SQL**, and **data visualization**, while continuously exploring advanced concepts in **data engineering** and **analytics**.
+
+
+### 💡 Areas of Expertise:
+- **Excel** – Advanced formulas, pivot tables, and data visualization  
+- **SQL** – Query writing, joins, aggregations, and database management  
+- **Python** – Data analysis with Pandas, NumPy, and data visualization libraries  
+
+### 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-abdulroqeeb-opeyemi-45b93033)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
