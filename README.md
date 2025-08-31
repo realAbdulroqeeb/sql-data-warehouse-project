@@ -88,5 +88,5 @@ I specialize in **data analysis**, **SQL**, and **data visualization**, while co
 
 ### 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-abdulroqeeb-opeyemi-45b93033)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-username](https://github.com/realAbdulroqeeb))
 
