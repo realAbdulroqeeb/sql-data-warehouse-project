@@ -55,13 +55,22 @@ Design **SQL-based analytics** to generate actionable insights into:
 
 These insights aim to provide stakeholders with essential business metrics to drive informed and strategic decisions.  
 
+## 📂 Repository Structure
+```
 data-warehouse-project/
 │
-├── datasets/                 # Source CSV files
-├── docs/                     # Diagrams and documentation
-├── scripts/                  # SQL scripts for ETL
-│   ├── bronze/               # Load raw data
-│   ├── silver/               # Clean and transform
-│   ├── gold/                 # Create star schema
+├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
-└── README.md
+├── docs/                               # Project documentation and architecture details
+│
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   ├── gold/                           # Scripts for creating analytical models
+│
+├── tests/                              # Test scripts and quality files
+│
+├── README.md                           # Project overview and instructions
+└── LICENSE                             # License information for the repository
+
+---
